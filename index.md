@@ -2,8 +2,8 @@
 
 ## Abstract
 
-```{abstract}}
-This is a test of the new technote system that builds author names from authordb.yaml
+```{abstract}
+This is a test of the new technote system that builds author names from `authordb.yaml`.
 ```
 
 ## Add content here
